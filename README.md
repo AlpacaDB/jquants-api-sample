@@ -29,7 +29,7 @@ https://github.com/AlpacaDB/jquants-api-sample/blob/main/20220928_jquantsapi_tut
 
 ### データ分析コンペ準優勝UKIさんモデル実行デモ
 
-J-Quants APIから取得したデータを「株式分析チュートリアル」用に変換して、データ分析コンペで準優勝のUKIさんモデルを実行するデモとなります。大量の特徴量を作成しているので、ぜひご参考にされてみてｋづあさい。上記の株式分析チュートリアルデモを実行されてからこちらをご覧いただくことをおすすめいたします。
+J-Quants APIから取得したデータを「株式分析チュートリアル」用に変換して、データ分析コンペで準優勝のUKIさんモデルを実行するデモとなります。大量の特徴量を作成しているので、ぜひご参考にされてみてください。上記の株式分析チュートリアルデモを実行されてからこちらをご覧いただくことをおすすめいたします。
 
 https://github.com/AlpacaDB/jquants-api-sample/blob/main/20220915_jquantsapi_uki_predictor.ipynb
 
