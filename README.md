@@ -21,8 +21,15 @@ https://github.com/AlpacaDB/jquants-api-sample/blob/main/jquants_api_sample.ipyn
 - https://cloudonair.withgoogle.com/events/financial-data-science
 - https://www.ai-days2022.com/
 
-### 株式分析チュートリアル用データ作成デモ
+### 株式分析チュートリアルデモ
 
-J-Quants APIから取得したデータを「株式分析チュートリアル」用に変換するデモとなります。株式分析チュートリアルはEDAから機械学習モデルの作成までを網羅しているため、金融データへのデータサイエンスの適用の第一歩として最適な教材となっております。ぜひご活用ください。
+J-Quants APIから取得したデータを「株式分析チュートリアル」用に変換して実行するデモとなります。株式分析チュートリアルはEDAから機械学習モデルの作成までを網羅しているため、金融データへのデータサイエンスの適用の第一歩として最適な教材となっております。ぜひご活用ください。
 
-https://github.com/AlpacaDB/jquants-api-sample/blob/main/data_retrieve.ipynb
+https://github.com/AlpacaDB/jquants-api-sample/blob/main/20220928_jquantsapi_tutorial.ipynb
+
+### データ分析コンペ準優勝UKIさんモデル実行デモ
+
+J-Quants APIから取得したデータを「株式分析チュートリアル」用に変換して、データ分析コンペで準優勝のUKIさんモデルを実行するデモとなります。大量の特徴量を作成しているので、ぜひご参考にされてみてください。上記の株式分析チュートリアルデモを実行されてからこちらをご覧いただくことをおすすめいたします。
+
+https://github.com/AlpacaDB/jquants-api-sample/blob/main/20220915_jquantsapi_uki_predictor.ipynb
+
